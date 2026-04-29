@@ -1,0 +1,5 @@
+ GET / 200 in 49ms (compile: 3ms, render: 46ms)
+ GET /models 200 in 174ms (compile: 17ms, render: 157ms)
+ GET /about 200 in 69ms (compile: 15ms, render: 55ms)
+ GET /api/models/metrics 200 in 73ms (compile: 58ms, render: 14ms)
+ GET / 200 in 63ms (compile: 3ms, render: 60ms)
